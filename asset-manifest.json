@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-picker/static/css/main.71747df4.chunk.css",
+    "main.js": "/movie-picker/static/js/main.1e316859.chunk.js",
+    "main.js.map": "/movie-picker/static/js/main.1e316859.chunk.js.map",
+    "runtime-main.js": "/movie-picker/static/js/runtime-main.b53bec0b.js",
+    "runtime-main.js.map": "/movie-picker/static/js/runtime-main.b53bec0b.js.map",
+    "static/js/2.6f265204.chunk.js": "/movie-picker/static/js/2.6f265204.chunk.js",
+    "static/js/2.6f265204.chunk.js.map": "/movie-picker/static/js/2.6f265204.chunk.js.map",
+    "static/js/3.d0f5f458.chunk.js": "/movie-picker/static/js/3.d0f5f458.chunk.js",
+    "static/js/3.d0f5f458.chunk.js.map": "/movie-picker/static/js/3.d0f5f458.chunk.js.map",
+    "index.html": "/movie-picker/index.html",
+    "static/css/main.71747df4.chunk.css.map": "/movie-picker/static/css/main.71747df4.chunk.css.map",
+    "static/js/2.6f265204.chunk.js.LICENSE.txt": "/movie-picker/static/js/2.6f265204.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/movie-picker/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53bec0b.js",
+    "static/js/2.6f265204.chunk.js",
+    "static/css/main.71747df4.chunk.css",
+    "static/js/main.1e316859.chunk.js"
+  ]
+}
